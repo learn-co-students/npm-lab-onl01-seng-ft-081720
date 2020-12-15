@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-onl01-seng-ft-081720",
+  "version": "1.0.0",
+  "description": "A clock thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophiaGrace16/npm-lab-onl01-seng-ft-081720.git"
+  },
+  "author": "learn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SophiaGrace16/npm-lab-onl01-seng-ft-081720/issues"
+  },
+  "homepage": "https://github.com/SophiaGrace16/npm-lab-onl01-seng-ft-081720#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
